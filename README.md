@@ -8,6 +8,7 @@
 ### 1. Industry Risk Snapshot
 
 | Nội dung | Đánh giá của tôi và lý do |
+| --- | --- |
 | Những tác hại chính có thể xảy ra | Hệ thống có thể đánh giá sai mức độ phù hợp của ứng viên với JD, bỏ sót ứng viên tốt hoặc xếp hạng cao ứng viên không phù hợp. AI cũng có thể suy diễn từ CV khi bằng chứng không đầy đủ. Người bị ảnh hưởng chính là ứng viên, HR và phòng ban tuyển dụng. |
 | Mức độ high-stakes | **Cao**. Hệ thống hỗ trợ quá trình tuyển dụng, nên kết quả đánh giá có thể ảnh hưởng trực tiếp đến cơ hội việc làm của ứng viên. Vì vậy, AI chỉ nên đóng vai trò hỗ trợ sàng lọc và cung cấp bằng chứng; không được tự động đưa ra quyết định tuyển hoặc loại ứng viên. |
 | Dữ liệu nhạy cảm có thể được sử dụng | CV có thể chứa thông tin nhận dạng cá nhân như họ tên, email, số điện thoại, địa chỉ, ảnh, ngày sinh, giới tính, lịch sử học tập và kinh nghiệm làm việc. Trong hệ thống, các thông tin không cần thiết cho việc đánh giá năng lực cần được ẩn hoặc loại bỏ trước khi AI thực hiện matching/ranking. Không sử dụng dữ liệu thật của ứng viên trong bài báo cáo. |
